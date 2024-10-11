@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "lightarial";
+    src: url(font/arial/arial.ttf);
+}
+@font-face {
+    font-family: "novaarial";
+    src: url(font/arialnova/arialnova.ttf);
+}
+@font-face {
+    font-family: "blackarial";
+    src: url(font/arialblack/arialblack.ttf);
+}
+h1 {
+    font-family: "lightarial", sans-serif;
+    color: gray;
+}
+body {
+    background-image: linear-gradient(to right, white, black)
+}
+p {
+    font-family: "novaarial", sans-serif;
+    color: white;
+    font-size: 17px;
+}
+h2 {
+    font-family: "arialblack", sans-serif;
+    color: white;
+    font-size: 72px;
+}

@@ -27,3 +27,70 @@ h2 {
     color: white;
     font-size: 72px;
 }
+.container {
+    position: relative;
+    text-align: left;
+}
+.overlay {
+    position: absolute;
+    top: 0px;
+}
+.overlay2 {
+    position: absolute;
+    top: 320px;
+}
+.overlay3 {
+    position: absolute;
+    top: 500px;
+    right: 33px;
+}
+.textovelay {
+    position: absolute;
+    bottom: 5px;
+    left: 25px;
+    font-size: 20px;
+}
+.textovelay2 {
+    position: absolute;
+    left: 25px;
+}
+.textoverlay3 {
+    position: absolute;
+    font-size: 20px;
+    bottom: 0px;
+    left: 50px;
+}
+.textoverlay4 {
+    position: absolute;
+    font-size: 17px;
+}
+.textoverflow {
+    position: absolute;
+    bottom: 1100px;
+    left: 400px;
+}
+.linepos {
+    position: absolute;
+    top: 25px;
+    right: -325px;
+}
+.linebggray {
+    position: absolute;
+    top: 500px;
+    left: 385px;
+}
+.linebggray2 {
+    position: absolute;
+    top: 300px
+}
+.textoverlay5 {
+    position: absolute;
+    bottom: 0px;
+    left: 50px;
+    font-size: 20px;
+}
+.textoverlay6 {
+    position: absolute;
+    left:50px;
+    font-size: 20px;
+}
